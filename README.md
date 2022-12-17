@@ -5,7 +5,7 @@
 
 The purpose of this app is to experiment with the Web Speech API which enables you to incorporate voice data into web apps. The Web Speech API has two parts: SpeechSynthesis (Text-to-Speech), and SpeechRecognition (Asynchronous Speech Recognition.)
 
-This app uses the Web Speech API to build a voice powered note app to do 3 things:
+This app uses the Web Speech API to build a voice powered note app to do 3 things :
 
  - Takes notes by using voice-to-text or keyboard input.
  - Save voice notes to localStorage.
